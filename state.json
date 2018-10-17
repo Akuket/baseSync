@@ -1,1 +1,1 @@
-{"resources":[],"variables":{},"sync":"git@github.com:Akuket/baseSync.git"}
+{"resources":[{"name":"1","type":"github","timeStamp":1539735378046}],"variables":{},"sync":"git@github.com:Akuket/baseSync.git"}
